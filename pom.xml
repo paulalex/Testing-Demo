@@ -24,7 +24,7 @@
 		<maven-compiler-plugin-version>2.5.1</maven-compiler-plugin-version>
 		
 		<!-- Version of phantom js binary file -->
-		<phantomjs-binary.version>2.0.0</phantomjs-binary.version>
+		<phantomjs-binary.version>2.1.1</phantomjs-binary.version>
 		
 		<!-- Jacoco configuration -->
 		<jacoco-unit-test-exec-path>${project.build.directory}/coverage-reports/jacoco-ut.exec</jacoco-unit-test-exec-path>	
